@@ -1,7 +1,17 @@
-# Loan_approval_prediction
+# Loan Approval Prediction
 
-This code predicts loan approval using a Random Forest classifier. It loads training and test datasets, checks for missing values, encodes categorical features, and visualizes data distributions. After training the model, it evaluates performance on a validation set and generates predictions, saving the results for submission in CSV format.
+## 📌 About the Project
+The **Loan Approval Prediction** system leverages machine learning techniques to predict whether a loan application will be approved based on various applicant details. By analyzing key financial and demographic factors, this model aids in automating the loan approval process efficiently and accurately.
 
-Kaggle Competition Link: https://www.kaggle.com/competitions/playground-series-s4e10
+## 🚀 Features
+- Predicts loan approval status based on applicant details.
+- Utilizes **Random Forest Classifier** for high accuracy.
+- Performs **data preprocessing and feature engineering** for optimal predictions.
+- Provides **visual insights** into the dataset and feature importance.
 
-Validation Accuracy: 0.95
+## 🛠️ Tech Stack
+- **Python** (for model training and data handling)
+- **Machine Learning:** Scikit-Learn (for model development and evaluation)
+- **Data Processing:** Pandas, NumPy (for data manipulation)
+- **Visualization:** Matplotlib, Seaborn (for graphical insights)
+- **Jupyter Notebook** (for experimentation and model training)
